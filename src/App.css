@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@200;400&family=Oswald:wght@400;500&display=swap');
+.App .cards {
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-family: 'Oswald';
+}

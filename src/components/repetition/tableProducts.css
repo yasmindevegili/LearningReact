@@ -1,0 +1,15 @@
+.Tabela table{
+    width: 100%;
+}
+
+.Tabela th {
+    background-color: antiquewhite;
+}
+
+.Tabela .Par {
+    background-color: #ccc;
+}
+
+.Tabela .Impar {
+    background-color: #ddd;
+}
